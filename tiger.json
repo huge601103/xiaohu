@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
+            "name": "东拼西凑凑活用",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -181,7 +181,7 @@
         },
      {
             "key": "行动",
-            "name": "行动┃APP",
+            "name": "💗行动┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -191,7 +191,7 @@
         },
      {
             "key": "猫抓",
-            "name": "猫抓┃APP",
+            "name": "🐱猫抓┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -201,7 +201,7 @@
         },
     {
             "key": "蔬菜",
-            "name": "蔬菜┃APP",
+            "name": "🥬蔬菜┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -211,7 +211,7 @@
         },
    {
             "key": "永永",
-            "name": "永永┃APP",
+            "name": "💗永永┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -221,7 +221,7 @@
         },
     {
             "key": "csp_Jpys",
-            "name": "金牌┃影视",
+            "name": "🥇金牌┃影视",
             "type": 3,
             "api": "csp_Jpys",
             "searchable": 1,
@@ -239,7 +239,7 @@
         },
     {
             "key": "csp_SaoHuo",
-            "name": "火火┃影视",
+            "name": "🔥火火┃影视",
             "type": 3,
             "api": "csp_SaoHuo",
             "searchable": 1,
