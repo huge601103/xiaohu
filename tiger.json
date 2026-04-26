@@ -116,6 +116,8 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
+         {"key": "永乐影视(JS)","name": "🪲┃永乐┃影视","type": 3,"api": "./js/永乐影视.js","searchable": 1,"quickSearch": 1,"filterable": 1,"switchable": 1},
+
         {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
