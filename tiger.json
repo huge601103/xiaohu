@@ -211,7 +211,7 @@
         },
    {
             "key": "永永",
-            "name": "💗永永┃APP",
+            "name": "🐰永永┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "searchable": 1,
@@ -230,12 +230,27 @@
         },
     {
             "key": "csp_Gz360",
-            "name": "瓜子┃影视",
+            "name": "🍉瓜子┃影视",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
             "changeable": 1,
             "jar": "https://tv.菜妮丝.top/jar/feimao0227.jar;md5;43439ab24ef55a81150ca64aa9383da2"
+        },
+        {
+            "key": "独播弹幕版",
+            "name": "👠独播┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "Duboku",
+                "danmu": true
+            },
+            "timeout": 10
         },
     {
             "key": "csp_SaoHuo",
