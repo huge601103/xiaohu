@@ -93,7 +93,7 @@
                 "type": "list"
             }
         },
-       {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "./libs/jar/XYQH.jar"},
+      
         {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
