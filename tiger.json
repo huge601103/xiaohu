@@ -93,8 +93,7 @@
                 "type": "list"
             }
         },
-       {"key": "1永乐视频","name": "👮┃永乐┃老张","type": 3,"api": "./laozhang/永乐视频.js","style": {"type": "rect","ratio": 1.33},"changeable": 1,"jar":"./jar/laozhang.jar"},
-
+       {"key": "csp_Ikanbot","name": "💋┃爱看┃Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "[排序:lz线路,kuaik]","jar": "./libs/jar/XYQH.jar"},
         {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
@@ -139,16 +138,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "比特",
-            "name": "🍄比特┃秒播",
-            "type": 3,
-            "api": "csp_BttwooGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "糯米",
             "name": "🍓糯米┃多线",
@@ -217,21 +207,7 @@
             "changeable": 1,
             "jar": "https://tv.菜妮丝.top/jar/feimao0227.jar;md5;43439ab24ef55a81150ca64aa9383da2"
         },
-        {
-            "key": "独播弹幕版",
-            "name": "👠独播┃弹幕",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "Duboku",
-                "danmu": true
-            },
-            "timeout": 10
-        },
+      
     {
             "key": "csp_SaoHuo",
             "name": "🔥火火┃影视",
@@ -324,16 +300,7 @@
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
         },
-        {
-            "key": "奥特",
-            "name": "🏝奥特┃多线",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "荐片",
             "name": "🐭荐片┃P2P",
